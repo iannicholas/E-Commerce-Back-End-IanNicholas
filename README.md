@@ -1,7 +1,4 @@
-# E-Commerce-Back-End-IanNicholas
-
-
-  ## Project Name
+  # Project Name
   ECommerce BackEnd
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
